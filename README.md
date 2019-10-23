@@ -1,2 +1,2 @@
 # AdvPython
-Advanced Python masters course
+Advanced Python masters course. Contains HTs and projects.
